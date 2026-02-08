@@ -1,0 +1,5 @@
+#Top_bar .logo img {
+    max-height: none !important;   /* remove any JS restrictions */
+    height: 160px !important;      /* 4x the original 40px */
+    width: auto !important;        /* keep aspect ratio */
+}
